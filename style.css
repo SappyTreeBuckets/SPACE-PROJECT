@@ -1,0 +1,22 @@
+.travel_mainDiv{
+    border: 5px solid darkgrey;
+    }
+    .travel_mainDiv img {
+        width: 100%;
+    }
+    .travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+    }
+    #videos{
+        width: 100%;
+        height: 500px;
+        border: none;
+    }
+    .contact_1 h3 {
+        display: inline;
+    }
+    #NASA{
+        display: inline;
+        padding-left: 33px;
+        padding-right: 25px;
+        }
